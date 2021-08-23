@@ -1,11 +1,15 @@
 # APIWrappers
 > Wrappers for various APIs, in various programming languages.
 
+TODO: Rewrite README
+
 The goal of this project is to build API wrappers for
 a multitude of service APIs from imgur, dropbox, and discord,
 to transaction networks like Visa and Mastercard, and bulk 
 information extraction from government sites, surveys
 sites and lots more.
+
+
 
 > Note: there are probably existing libraries for all of
 the wrappers here so consider using those unless
@@ -13,10 +17,12 @@ the wrappers in this repository interest you, or if you'd
 like to contribute
 
 ## Contents
+1. [APIWrappers Purpose](#apiwrappers-purpose)
+2. [What to Expect](#what-to-expect)
+3. [Wrapper Documentation](#wrapper-documentation)
+4. [Contribution](#contribution)
 
-1. [What to Expect](#what-to-expect)
-2. [Wrapper Documentation](#wrapper-documentation)
-3. [Contribution](#contribution)
+# APIWrappers Purpose
 
 ## What to Expect
 
