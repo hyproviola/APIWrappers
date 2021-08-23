@@ -20,6 +20,10 @@ like to contribute
 
 ## What to Expect
 
+* Not too much. These wrappers are designed to provide
+a single level of abstraction. That is, essentially turning
+raw HTTP requests and websockets into usable functions and
+variables.
 * We would like to include multiple implementations such as:
     * Websocket wrappers for back and forth communication
     * Send a request and capture the response
