@@ -15,6 +15,8 @@ like to contribute
 ## Contents
 
 [What to Expect](#what-to-expect)
+[Wrapper Documentation](#wrapper-documentation)
+[Contribution](#contribution)
 
 ## What to Expect
 
@@ -39,5 +41,16 @@ Documentation for wrappers can be found in their
 respective folders (./README.md). Documentation for
 the entirety of the APIWrappers repository can be found
 on the repository (wiki)[#]
+
+## Contribution
+
+Feel free to improve code in any way but:
+
+* Don't change the wrappers input or output functionality
+unless the reason is significant. Keep improvements
+within the wrapper.
+* If you make any major changes or additions, make sure
+to give yourself credit at the top of the file(s) in the
+header comment block.
 
 
