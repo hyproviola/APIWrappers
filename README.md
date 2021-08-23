@@ -7,6 +7,11 @@ to transaction networks like Visa and Mastercard, and bulk
 information extraction from government sites, surveys
 sites and lots more.
 
+> Note: there are probably existing libraries for all of
+the wrappers here so consider using those unless
+the wrappers in this repository interest you, or if you'd
+like to contribute
+
 ## Contents
 
 [What to Expect](#what-to-expect)
