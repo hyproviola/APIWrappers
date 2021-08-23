@@ -14,9 +14,9 @@ like to contribute
 
 ## Contents
 
-[What to Expect](#what-to-expect)
-[Wrapper Documentation](#wrapper-documentation)
-[Contribution](#contribution)
+1. [What to Expect](#what-to-expect)
+2. [Wrapper Documentation](#wrapper-documentation)
+3. [Contribution](#contribution)
 
 ## What to Expect
 
